@@ -20,7 +20,8 @@ structure back and forth across the interop boundary.
 I'm not going to take this any further, right now.  May revisit
 when I have the need.
 
-13-Apr-2019 -- rickb
+13-Apr-2019 -- rickb, Aphorica
+github: aphorica.github.io
 
 ## Project setup
 ```
