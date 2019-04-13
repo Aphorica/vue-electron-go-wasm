@@ -14,13 +14,13 @@ before sending to Go (simplifies arg passing).  Go returns stringified
 JSON, which the JS can parse.
 
 Stringifying/parsing JSON carries its own performance burden, but
-it would likely be just a burdensome to marshall a JSON (or other)
+it would likely be just as burdensome to marshall a JSON (or other)
 structure back and forth across the interop boundary.
 
 I'm not going to take this any further, right now.  May revisit
 when I have the need.
 
-13-Apr-2019 -- rickb, Aphorica
+12-Apr-2019 -- rickb, Aphorica<br/>
 github: aphorica.github.io
 
 ## Project setup
